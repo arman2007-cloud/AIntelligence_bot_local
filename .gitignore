@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Credenciales, tokens y variables
+.env
+credentials.json
+drive_token.json
+token.json
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de compilación de PyInstaller
+dist/
+*.spec
+
+# Logs y ejecutables temporales del navegador
+*.log
+undetected_chromedriver.exe
+
+# Logs y ejecutables
+*.log
+*.exe
